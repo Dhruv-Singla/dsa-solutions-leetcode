@@ -19,6 +19,6 @@ int countDigits(int n){
         n /= 10;  // Reduce n after each iteration
     }
     
-    return cnt;
+    return cnt; //return int value stored in cnt
 }
 
