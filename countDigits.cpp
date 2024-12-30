@@ -1,5 +1,5 @@
 int countDigits(int n){
-    int num = n;
+    int num = n; //duplicating n also as num
     int cnt = 0, rem;
     
     while (n > 0) {
