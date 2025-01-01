@@ -14,5 +14,5 @@ bool isPrime(int n)
     return true;
 }
 
-//reducing time comlexity from O(n) to O(n^1/2).
+//reducing time comlexity from O(n) to O(n^1/2)
 //by changing loop termination from n to sqrt(n)
