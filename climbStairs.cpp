@@ -17,4 +17,4 @@ public:
         }
         return sum;
     }
-};
+};//best code for this question
