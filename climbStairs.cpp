@@ -10,7 +10,7 @@ public:
         int n1 =2;
         int n2 =1;
         int sum =0;
-        for(int i=3;i<=n;i++){
+        for(int i=3;i<=n;i++){//nth is n-1 + n-2
             sum = n1 + n2;
             n2 =n1;
             n1 =sum;
