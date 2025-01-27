@@ -12,3 +12,4 @@ public:
     }
 };
 //Remove Duplicates from Sorted Array
+//array and 2 pointer
