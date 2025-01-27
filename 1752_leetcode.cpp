@@ -1,4 +1,5 @@
 //beats 100% 
+//easy
 class Solution {
 public:
     bool check(vector<int>& nums) {
