@@ -7,3 +7,6 @@ public:
         reverse(nums.begin(), nums.end());
     }
 };
+//big brain question
+//medium
+//189. Rotate Array
