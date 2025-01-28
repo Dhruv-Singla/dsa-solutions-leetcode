@@ -1,4 +1,4 @@
-//283. Move Zeroes
+//283. Move Zeroes easy
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
