@@ -21,3 +21,12 @@ public:
         }
     }
 };
+// Intuition
+// used algo by using 3 pointer
+
+// Approach
+// one pointer for end of 0, second at end of 1, and third at start of 2 initially at end
+
+// Complexity
+// Time complexity: O(n)
+// Space complexity:O(1)
