@@ -14,3 +14,13 @@ public:
     }
 };
 //121. Best Time to Buy and Sell Stock
+
+// Intuition
+// compare 2 at once
+
+// Approach
+// used min as minimum element, max as largest profit
+
+// Complexity
+// Time complexity: O(n)
+// Space complexity:O(1)
