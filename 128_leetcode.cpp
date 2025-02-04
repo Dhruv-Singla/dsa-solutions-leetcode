@@ -17,3 +17,12 @@ public:
         return sum;
     }
 };
+// Intuition
+// see if n-1 exist or not, if yes then you don't need to check next elements.
+
+// Approach
+// made a map and used find() to check if next elements exist or not.
+
+// Complexity
+// Time complexity: O(n)
+// Space complexity: O(n)
