@@ -20,3 +20,12 @@ public:
         reverse(nums.begin() + i + 1, nums.end());
     }
 };
+// Intuition
+// we dont want every permuataion, we want only just after permutation.
+
+// Approach
+// we start from last element and move towards first. We see if any of them is smaller then the previous one. We swap the number with just greater than it in right elements. now we rotate the array to its right.
+
+// Complexity
+// Time complexity: O(n)
+// Space complexity: O(1)
