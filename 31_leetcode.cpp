@@ -20,6 +20,7 @@ public:
         reverse(nums.begin() + i + 1, nums.end());
     }
 };
+
 // Intuition
 // we dont want every permuataion, we want only just after permutation.
 
