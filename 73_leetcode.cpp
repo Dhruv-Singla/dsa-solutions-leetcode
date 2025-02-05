@@ -22,6 +22,7 @@ public:
         }
     }
 };
+
 // Intuition
 // First Stores 0's already in matrix
 
