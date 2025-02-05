@@ -14,7 +14,7 @@ This repository contains my **LeetCode** solutions in **C++**, covering a wide r
 - **LeetCode Platform**
 - **Git & GitHub for tracking progress**
 
-## 📖 How to Use?
+## 📖 How to add codes?
 1. Clone the repository:
    ```bash
    git clone https://github.com/Dhruv-Singla/dsa-solutions-leetcode.git
