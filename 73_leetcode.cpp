@@ -22,3 +22,12 @@ public:
         }
     }
 };
+// Intuition
+// First Stores 0's already in matrix
+
+// Approach
+// Made two 1D arrays to store 0's and marked 0 in matrix by iterating again
+
+// Complexity
+// Time complexity: O(n*m)
+// Space complexity: o(m+n)
