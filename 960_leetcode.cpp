@@ -14,3 +14,9 @@ public:
         return count;
     }
 };
+// Approach
+// stored in unordered map and then find double checking sum==k
+
+// Complexity
+// Time complexity: O(n)
+// Space complexity: O(n)
