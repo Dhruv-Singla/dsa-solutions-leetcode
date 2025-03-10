@@ -12,3 +12,13 @@ public:
         return result;
     }
 };
+
+// Intuition
+// adding upper two and so on
+
+// Approach
+// added previous 2 elements in new vector full of 1 and then push_back it
+
+// Complexity
+// Time complexity: O(n2)
+// Space complexity: O(n2)
